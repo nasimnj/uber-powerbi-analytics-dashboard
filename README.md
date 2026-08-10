@@ -84,3 +84,8 @@ Evaluates potential acquisition improvement under different allocation strategie
 - Power BI dashboard (.pbix)
 - Dashboard screenshots
 - Documentation
+- 
+
+- ## Dashboard Demo
+
+🎥 [Watch Dashboard Demo](dashboard-demo.mp4)
