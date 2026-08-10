@@ -85,6 +85,7 @@ Evaluates potential acquisition improvement under different allocation strategie
 - Dashboard screenshots
 - Documentation
 - 
+---
 
 ## Dashboard Demo
 
