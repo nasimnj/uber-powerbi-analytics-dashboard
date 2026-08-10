@@ -86,6 +86,8 @@ Evaluates potential acquisition improvement under different allocation strategie
 - Documentation
 - 
 
-- ## Dashboard Demo
+## Dashboard Demo
 
-🎥 [Watch Dashboard Demo](dashboard-demo.mp4)
+An interactive walkthrough of the Uber Power BI Analytics Dashboard, demonstrating navigation between report pages, KPI analysis, and scenario-based insights.
+
+🎥 [Watch Uber Power BI Dashboard Demo](Uber_PowerBI_Dashboard_Demo.mp4)
